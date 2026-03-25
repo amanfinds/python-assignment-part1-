@@ -1,6 +1,6 @@
 #  Student Grade Tracker (Assignment 1 - Q2)
 
-This project is part of Masai School Assignment.
+This project is part of Assignment.
 
 ## Features Implemented
 
@@ -22,4 +22,4 @@ This project is part of Masai School Assignment.
 
    
 ##  Already Have Outputs
-Check the Part 1
+Check the Part 1(part1_grade_tracker.ipynb)
